@@ -1,4 +1,4 @@
-# IBMRxnEvaluation
+# IBM Rxn for Chemistry Evaluation
 
 This is an evaluation of IBM Rxn for Chemistry molecular transformer architecture as applied to retrosynthetic prediction. 
 
