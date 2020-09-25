@@ -23,13 +23,21 @@ Coverage Analysis | Percentage of times at least one correct retrosynthetic sequ
 ISMI % | Percentage of proposed SMILES that are invalid 
 
 ## References
-(1) Ertl, P.; Schuffenhauer, A. Estimation of Synthetic Accessibility Score of Drug-like Molecules Based on Molecular Complexity and Fragment Contributions. J. Cheminform. 2009, 1 (1), 8. https://doi.org/10.1186/1758-2946-1-8.
-
-(2) Schwaller, P.; Petraglia, R.; Zullo, V.; Nair, V. H.; Haeuselmann, R. A.; Pisoni, R.; Bekas, C.; Iuliano, A.; Laino, T. Predicting Retrosynthetic Pathways Using Transformer-Based Models and a Hyper-Graph Exploration Strategy. Chem. Sci. 2020, 11 (12), 3316–3325. https://doi.org/10.1039/C9SC05704H.
-
-(3) Schwaller, P.; Laino, T.; Gaudin, T.; Bolgar, P.; Hunter, C. A.; Bekas, C.; Lee, A. A. Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction. ACS Cent. Sci. 2019, 5 (9), 1572–1583. https://doi.org/10.1021/acscentsci.9b00576.
-
-(4) Böttcher, T. An Additive Definition of Molecular Complexity. J. Chem. Inf. Model. 2016, 56 (3), 462–470. https://doi.org/10.1021/acs.jcim.5b00723.
+(1) Schwaller, P.; Petraglia, R.; Zullo, V.; Nair, V. H.; Haeuselmann, R. A.; Pisoni, R.;
+Bekas, C.; Iuliano, A.; Laino, T. Predicting retrosynthetic pathways using transformerbased models and a hyper-graph exploration strategy. Chemical Science 2020, 11, 3316{
+3325.
+(2) Schwaller, P.; Laino, T.; Gaudin, T.; Bolgar, P.; Hunter, C. A.; Bekas, C.; Lee, A. A.
+Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction. ACS Central Science 2019, 5, 1572{1583.
+(3) IBM RXN for Chemistry. https://rxn.res.ibm.com.
+(4) rxn4chemistry, rxn4Chemistry. 2020; https://github.com/rxn4chemistry/
+rxn4chemistry.
+(5) Borrelli, W. IBMRxnAPI. 2020; https://github.com/wrborrelli/IBMRxnAPI.
+(6) Smith, J. G. Organic Chemistry; McGraw-Hill Education, 2017.
+9(7) Bottcher, T. An Additive Definition of Molecular Complexity. Journal of Chemical Information and Modeling 2016, 56, 462{470.
+(8) Borrelli, W. MolecularComplexityMA. 2020; https://github.com/wrborrelli/
+MolecularComplexityMA.
+(9) Ertl, P.; Schuffenhauer, A. Estimation of synthetic accessibility score of drug-like
+molecules based on molecular complexity and fragment contributions. Journal of Cheminformatics 2009, 1, 8.
 
 ## Support
 Any questions or correspondences may be directed to wborrelli@fordham.edu.
