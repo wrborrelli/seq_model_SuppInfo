@@ -51,4 +51,4 @@ molecules based on molecular complexity and fragment contributions. Journal of C
 Any questions or correspondences may be directed to wborrelli@fordham.edu.
 
 ## Authors and Acknowledgement
-Dr. Joshua Schrier, Kim B. and Stephen E. Bepler Chair Professor of Chemistry at Fordham University, was immensely helpful in all aspects of this project. 
+Dr. Joshua Schrier, Kim B. and Stephen E. Bepler Chair Professor of Chemistry at Fordham University, was immensely helpful in all aspects of this project. We thank Dr. Bottcher for his inspiration and assistance in developing our code for computing molecular complexity.
