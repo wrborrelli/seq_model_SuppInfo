@@ -1,6 +1,6 @@
 # IBM Rxn for Chemistry Evaluation
 
-This is an evaluation of IBM Rxn for Chemistry molecular transformer architecture as applied to retrosynthetic prediction. 
+This is an evaluation of the IBM Rxn for Chemistry molecular transformer architecture as applied to retrosynthetic prediction. 
 
 The Mathematica notebook named "ibmRxnRetro.nb" is the raw notebook used for analysis while the "ibmRxnRetro_Formatted.nb" is slightly abbreviated, more neatly formatted, and includes annotation for my reasoning for my code. 
 
