@@ -4,7 +4,7 @@ This is an evaluation of the IBM Rxn for Chemistry molecular transformer archite
 
 The Mathematica notebook named "ibmRxnRetro.nb" is the raw notebook used for analysis while the "ibmRxnRetro_Formatted.nb" is slightly abbreviated, more neatly formatted, and includes annotation for my reasoning for my code. 
 
-A formal write-up of my analysis and results is available in the "comment_writeUp.pdf". A condensed results section is what follows.
+A formal letter-to-the-editor style write-up of my analysis and results is available in the "comment_writeUp.pdf". A condensed results section is what follows.
 
 ## Results 
 The following table summarizes the analyses done and results, where applicable:
