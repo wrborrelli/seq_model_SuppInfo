@@ -4,7 +4,7 @@ This is the supporting information and code for the article _Evaluating the Perf
 Transformer-based Organic Reaction Prediction
 Model_
 
-The Mathematica notebook named "ibmRxnRetro.nb" is the raw notebook used for analysis while the "ibmRxnRetro_Formatted.nb" is slightly abbreviated, more neatly formatted, and includes annotation for my reasoning for my code. 
+The Mathematica notebook named "ibmRxnRetro.nb" is the raw notebook used for analysis while the "ibmRxnRetro_Formatted.nb" is slightly abbreviated, more neatly formatted, and includes annotation for my reasoning for my code. All data sets for forward and retrosynthetic tests are included, with citations or links for reaction sources. 
 
 
 ## Results 
