@@ -4,6 +4,7 @@ This is the supporting information and code for the article _Evaluating the Perf
 Transformer-based Organic Reaction Prediction
 Model_
 
+## Data & Code Information
   - test_set_WB.xlsx : forward synthesis test set
   - test_set_ret_WB.xlsx : retrosynthesis test set
   - combDatAllFwds.csv : all forward synthesis model results 
