@@ -19,6 +19,7 @@ Sameness of Retrosynthetic and Forward Predictions | Reactions that did not prod
 Reactions with ΔSA > 0 | Reactions that saw an increase in synthetic accessibility going from reactants to products
 Reactions with ΔCm > 0 | Reactions that saw an increase in molecular complexity going from reactants to products
 Low confidence reactions | Reactions with a confidence below 0.1 
+High confidence reactions | Reactions with a confidence above 0.90
 Reaction Mapping Results | Results of RXNMapper mappings
 
 ## References
