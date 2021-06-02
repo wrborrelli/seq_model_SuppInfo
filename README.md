@@ -4,7 +4,20 @@ This is the supporting information and code for the article _Evaluating the Perf
 Transformer-based Organic Reaction Prediction
 Model_
 
-The Mathematica notebook named "ibmRxnRetro.nb" is the raw notebook used for analysis while the "ibmRxnRetro_Formatted.nb" is slightly abbreviated, more neatly formatted, and includes annotation for my reasoning for my code. All data sets for forward and retrosynthetic tests are included, with citations or links for reaction sources. 
+/*:
+  - test_set_WB.xlsx : forward synthesis test set
+  - test_set_ret_WB.xlsx : retrosynthesis test set
+  - combDatAllFwds.csv : all forward synthesis model results 
+  - combDatAllRet.csv : all retrosynthesis model results
+  - combDatFwds.csv : top-1 forward model results
+  - combDatRet.csv : top-1 retrosynthesis model results
+  - combFwdDat.csv : top-1 forward results of top-1 retrosynthesis model results
+  - figs_and_reacs.nb : Mathematica code for generating figures and reactions
+  - retro_analysis.nb : Mathematica code for retrosynthesis analysis
+  - synth_analysis.nb : Mathematica code for forward synthesis analysis
+  - t1CMapConfs.txt : RXNMapper map confidences for top-1 correct predictions
+  - t1WRmapConfs.txt : RXNMapper map confidences for top-1 incorrect predictions
+ */
 
 
 ## Results 
