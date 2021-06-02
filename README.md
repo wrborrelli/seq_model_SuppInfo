@@ -6,7 +6,6 @@ Model_
 
 The Mathematica notebook named "ibmRxnRetro.nb" is the raw notebook used for analysis while the "ibmRxnRetro_Formatted.nb" is slightly abbreviated, more neatly formatted, and includes annotation for my reasoning for my code. 
 
-A formal letter-to-the-editor style write-up of my analysis and results is available in the "comment_writeUp.pdf". A condensed results section is what follows.
 
 ## Results 
 The following table summarizes the analyses done and results, where applicable:
@@ -20,9 +19,7 @@ Sameness of Retrosynthetic and Forward Predictions | Reactions that did not prod
 Reactions with ΔSA > 0 | Reactions that saw an increase in synthetic accessibility going from reactants to products
 Reactions with ΔCm > 0 | Reactions that saw an increase in molecular complexity going from reactants to products
 Low confidence reactions | Reactions with a confidence below 0.1 
-Round Trip Analysis | Percentage of suggested retrosyntheses of a unique reaction class that forms the same product
-Coverage Analysis | Percentage of times at least one correct retrosynthetic sequence is given 
-ISMI % | Percentage of proposed SMILES that are invalid 
+Reaction Mapping Results | Results of RXNMapper mappings
 
 ## References
 (1) Reactants, products, and transition states of elementary chemical reactions based on
