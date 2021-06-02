@@ -1,8 +1,8 @@
 # IBM Rxn for Chemistry Evaluation
 
-This is the supporting information and code for the article Evaluating the Performance of a
+This is the supporting information and code for the article _Evaluating the Performance of a
 Transformer-based Organic Reaction Prediction
-Model
+Model_
 
 The Mathematica notebook named "ibmRxnRetro.nb" is the raw notebook used for analysis while the "ibmRxnRetro_Formatted.nb" is slightly abbreviated, more neatly formatted, and includes annotation for my reasoning for my code. 
 
