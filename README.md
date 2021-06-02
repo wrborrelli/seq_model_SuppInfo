@@ -5,6 +5,7 @@ Transformer-based Organic Reaction Prediction
 Model_
 
 ## Data & Code Information
+  - transformer_eval_SI.pdf : supporting information document
   - test_set_WB.xlsx : forward synthesis test set
   - test_set_ret_WB.xlsx : retrosynthesis test set
   - combDatAllFwds.csv : all forward synthesis model results 
