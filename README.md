@@ -19,7 +19,6 @@ Model_
   - rmap.ipynb : Python code for RXNMapper analysis
   - t1CMapConfs.txt : RXNMapper map confidences for top-1 correct predictions
   - t1WRmapConfs.txt : RXNMapper map confidences for top-1 incorrect predictions
- */
 
 
 ## Results 
