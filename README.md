@@ -37,6 +37,8 @@ High confidence reactions | Reactions with a confidence above 0.90
 Reaction Mapping Results | Results of RXNMapper mappings
 
 ## References
+Note that all web sources for test reactions are provided in their respective test set data set. 
+
 (1) Reactants, products, and transition states of elementary chemical reactions based on
 quantum chemistry. Scientific Data 2020, 7, 137.
 
