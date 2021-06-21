@@ -1,4 +1,4 @@
-# Sequence-Based Model Analysis Supplementary Information 
+# Sequence-Based Model Analysis - Supplementary Information 
 
 This is the supporting information and code for the article _Evaluating the Performance of a
 Transformer-based Organic Reaction Prediction
